@@ -1,5 +1,17 @@
 # ProjectLC
 
+# Agenda and Scheduling
+
+## Homework
+Monday, review hard problem, assigned easy problem and hard problem
+Wednesday, review easy problem solution, if needed discuss any difficulties in the hard problem
+// Friday, if needed discuss any difficulties in the hard problem, time depending 1-2 problems
+
+## Agenda
+1. Review homework questions
+2. Do one "on the fly question a day"
+3. Assign new homework
+
 # Learnings
 
 1. Come up with a solution first, Considering optimizations as we are coding
