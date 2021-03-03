@@ -25,4 +25,4 @@ class Solution {
 
 start from the end and iterate backwards to avoid searching for the starting point (first non-negative number which is also the smallest element)
 
-Since the input array is a sorted, begin filling the output array with largest number at output_array[nums.length -1] and moving inwards.  
+Since the input array is sorted, begin filling the output array with largest number at output_array[nums.length -1] and moving inwards.  
