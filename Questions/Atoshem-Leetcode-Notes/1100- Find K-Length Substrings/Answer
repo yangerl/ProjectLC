@@ -1,0 +1,27 @@
+var numKLenSubstrNoRepeats = function(S, K) {
+  if(S.length < K) return 0
+  const window = S.slice(0, K).split('')
+  let counter = 0
+  for(let i=K;i<S.length+1;i++){
+    const set = new Set(window)
+    if(set.size == K) counter++
+    window.shift()
+    window.push(S[i])
+  }
+  return counter
+};
+Further optimized to get rid of the shift which is an O(n) operation in Javascript
+
+var numKLenSubstrNoRepeats = function(S, K) {
+  if(S.length < K) return 0
+  const window = S.slice(0, K).split('')
+  let counter = 0
+  let w = 0
+  for(let i=K;i<S.length+1;i++){
+    const set = new Set(window)
+    if(set.size == K) counter++
+    window[w++] = S[i]
+    if(w === K) w=0
+  }
+  return counter
+};
