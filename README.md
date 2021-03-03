@@ -3,12 +3,13 @@
 # Agenda and Scheduling
 
 ## Homework
-### Medium Problem (Due 2/24) https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
-### Hard Problem (Due 3/1)(Already reviewed as of 2/24) https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/ 
 
 ### Easy Problem (Due 3/1)https://leetcode.com/problems/max-consecutive-ones/
 ### Medium Problem (Due 3/1)https://leetcode.com/problems/max-consecutive-ones-ii/
 ### Hard Problem (Due 3/1)https://leetcode.com/problems/max-consecutive-ones-iii/
+
+### Easy Problem (Due 3/4)https://leetcode.com/problems/same-tree/
+### Medium Problem (Due 3/4)https://leetcode.com/problems/binary-tree-inorder-traversal/
 
 Monday, review hard problem, assigned easy problem and hard problem
 Wednesday, review easy problem solution, if needed discuss any difficulties in the hard problem
