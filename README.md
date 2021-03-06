@@ -1,20 +1,5 @@
 # ProjectLC
 
-# Agenda and Scheduling
-
-## Homework
-
-### Easy Problem (Due 3/1)https://leetcode.com/problems/max-consecutive-ones/
-### Medium Problem (Due 3/1)https://leetcode.com/problems/max-consecutive-ones-ii/
-### Hard Problem (Due 3/1)https://leetcode.com/problems/max-consecutive-ones-iii/
-
-### Easy Problem (Due 3/4)https://leetcode.com/problems/same-tree/
-### Medium Problem (Due 3/4)https://leetcode.com/problems/binary-tree-inorder-traversal/
-
-Monday, review hard problem, assigned easy problem and hard problem
-Wednesday, review easy problem solution, if needed discuss any difficulties in the hard problem
-// Friday, if needed discuss any difficulties in the hard problem, time depending 1-2 problems
-
 ## Agenda
 1. Review homework questions
 2. Do one "on the fly question a day"
